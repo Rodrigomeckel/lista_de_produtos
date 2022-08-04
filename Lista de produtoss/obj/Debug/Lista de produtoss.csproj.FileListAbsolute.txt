@@ -1,0 +1,10 @@
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\bin\Debug\Lista de produtoss.exe.config
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\bin\Debug\Lista de produtoss.exe
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\bin\Debug\Lista de produtoss.pdb
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\obj\Debug\Lista de produtoss.csproj.AssemblyReference.cache
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\obj\Debug\Lista_de_produtoss.Form1.resources
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\obj\Debug\Lista_de_produtoss.Properties.Resources.resources
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\obj\Debug\Lista de produtoss.csproj.GenerateResource.cache
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\obj\Debug\Lista de produtoss.csproj.CoreCompileInputs.cache
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\obj\Debug\Lista de produtoss.exe
+C:\Users\aluno8\source\repos\Lista de produtoss\Lista de produtoss\obj\Debug\Lista de produtoss.pdb
